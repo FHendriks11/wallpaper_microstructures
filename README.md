@@ -1,6 +1,6 @@
 Code to generate random geometries for soft porous mechanical metamaterials (a.k.a. flexible material with holes in it), used to create this dataset of 1020 microstructures, available on Zenodo here: [link here], as described in our preprint: [link here].
 
-Deformation of these microstructures was simulated with the matlab code in this repository: [link to martins_code]
+Deformation of these microstructures was simulated with the matlab code in this repository: https://github.com/FHendriks11/mechmetamat_homogenization
 
 The microstructure generation code will call gmsh, so please ensure you have gmsh installed (we used version 4.12.2, but newer versions will probably also work fine) and it is added to your path.
 
