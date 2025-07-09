@@ -1,0 +1,8 @@
+data/*
+figure*
+__pycache__/*
+*.json
+*.xlsx
+*.docx
+SFConflict/*
+periodicity_test/*
