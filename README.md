@@ -1,4 +1,4 @@
-Code to generate random geometries for soft porous mechanical metamaterials (a.k.a. flexible material with holes in it), used to create this dataset of 1020 microstructures, available on Zenodo here: [link here], as described in our preprint: [link here].
+Code to generate random geometries for soft porous mechanical metamaterials (a.k.a. flexible material with holes in it), used to create this dataset of 1020 microstructures, available on Zenodo here: https://zenodo.org/records/15849550, as described in our preprint: https://arxiv.org/abs/2507.11195.
 
 Deformation of these microstructures was simulated with the matlab code in this repository: https://github.com/FHendriks11/mechmetamat_homogenization
 
